@@ -1,0 +1,13 @@
+{
+  "tool": "FramerClone",
+  "version": "1.0.0",
+  "clonedAt": "2026-06-18T11:17:27.155Z",
+  "sourceUrl": "https://cocreate.ventures/",
+  "stats": {
+    "pages": 2,
+    "assets": 371,
+    "totalSize": 11194322,
+    "duration": 3153
+  },
+  "migrate": false
+}
